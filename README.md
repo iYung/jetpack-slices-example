@@ -6,6 +6,6 @@ Welcome to Jetpack Slices Example! This project demonstrates some basic features
 The important files are linked in the list below:
 ### Host
  * [MainActivity](https://github.com/iYung/jetpack-slices-example/blob/master/Host/app/src/main/java/com/example/iyung/host/MainActivity.kt)
-## Provider
+### Provider
 * [SliceProvider](https://github.com/iYung/jetpack-slices-example/blob/master/Provider/app/src/main/java/com/example/iyung/provider/MySliceProvider.kt)
 * [BroadcastReceiver](https://github.com/iYung/jetpack-slices-example/blob/master/Provider/app/src/main/java/com/example/iyung/provider/MyReceiver.kt)
