@@ -1,6 +1,6 @@
 # Jetpack Slices Example
 
-Welcome to my project that demonstrates some basic features from the [Android Jetpack's](https://developer.android.com/jetpack) [Slices](https://developer.android.com/guide/slices/) library! Most of my explaining is done at [this]() article on Medium.
+Welcome to Jetpack Slices Example! This project demonstrates some basic features from [Android Jetpack's](https://developer.android.com/jetpack) [Slices](https://developer.android.com/guide/slices/) library. There are two apps here: one that creates a counter slice and one that hosts this slice. Most of my explaining is done at [this]() article on Medium.
 
 # Relevant Files
 The important files are linked in the list below:
